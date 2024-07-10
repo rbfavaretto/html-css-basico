@@ -1,3 +1,2 @@
 PLUGINS NECESSÁRIOS:
     -Live Server
-    -Prettier
