@@ -1,0 +1,22 @@
+<a href="https://google.com">Google</a>
+    
+TAG (<a> </a>):
+    As tags servem para marcar o conteúdo no HTML.
+
+ATRIBUTO (href):
+    Dão informações extras sobre uma tag para o browser. Além disso temos os códigos "sensitive" e "insensitive":
+        CASE SENSITIVE: o código escrito com letra maiúscula é diferente do escrito em minúscula.
+        CASE INSENSITIVE: o código escrito com letra maiúscula é igual ao escrito em minúscula.
+
+CONTEÚDO (Google):
+    É o conteúdo visível que aparecerá para o usuário.
+
+PARA QUAL FINALIDADE USAREMOS AS TAGS?
+    CONTEÚDO: As tags servem para inserirmos conteúdos como textos, imagens, vídeos e outros.
+    SEMÂNTICA: Dar sentido ao conteúdo, a escrita de um documento semântico beneficia principalmente leitores de tela (acessibilidade) e leitores de código  
+               (robôs como o do Google).
+    INTERAÇÃO COM CSS E JAVASCRIPT: Através das marcações das tags que conseguimos selecionar elementos para mudarmos o seu estilo e comportamento.
+
+  
+
+
