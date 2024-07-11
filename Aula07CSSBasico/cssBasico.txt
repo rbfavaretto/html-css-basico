@@ -1,0 +1,10 @@
+LINK:
+    * link:
+      Cria uma relação entre um documento HTML e um arquivo de estilo CSS.
+
+    * rel:
+      Define o tipo de arquivo (stylesheet para CSS). É possível linkar outros também como favicons.
+
+    * href:
+      Define o campo do arquivo.
+      <link rel="sytlesheet" href="/style.css" />

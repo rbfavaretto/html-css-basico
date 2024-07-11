@@ -1,0 +1,2 @@
+COMANDOS A SER UTILIZADOS:
+    ALINHAR CÓDIGO: (ctrl + shift + l)
