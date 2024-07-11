@@ -1,0 +1,6 @@
+SELETORES
+    * h1, p
+      A vírgula permite selecionarmos múltiplos elementos para a aplicação de um mesmo estilo.
+
+    * p a
+      Seleciona o a que tiver um p como elemento pai (não precisa ser filho direto) 
