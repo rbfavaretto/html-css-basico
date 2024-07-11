@@ -1,0 +1,10 @@
+BACKGROUND:
+  * background ou background-color:
+    Muda a cor de fundo do elemento.
+
+HEXADECIMAL:
+  * hexadecimal 
+    A cor é representada através de um código de 6 caracteres que vão de 0 até F.
+  
+  * #84e = #8844ee
+
