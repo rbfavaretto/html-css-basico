@@ -13,3 +13,10 @@ DISPLAY INLINE E BLOCK:
     * block
       Inicia uma nova linha e não permite que outros elementos sejam posicionados em sua linha. Aceita todas as propriedades do box model. Estilo inicial de elementos como h1, p, div e outros.
 
+NONE E INLINE-BLOCK
+    * none:
+      Remove o elemento completamente da tela.
+
+    * inline-block:
+      O elemento continua inline, mas passa a receber as propriedades do box model.
+
